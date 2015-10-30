@@ -1,0 +1,11 @@
+{
+  "name": "login",
+  "version": "1.0.0",
+  "description": "AngularJS login app",
+  "main": "index.js",
+  "scripts": {
+    "test": "testLogin"
+  },
+  "author": "Tyler Young",
+  "license": "ISC"
+}
